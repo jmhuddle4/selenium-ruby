@@ -4,7 +4,7 @@ class AboutPage
 
   def navigate_to_page
     bp = BasePage.new
-    bp.navigate_to_page("about")
+    bp.navigate_to_page('about')
   end
 
 end
