@@ -5,4 +5,6 @@
 - Ruby SDK: ruby-2.4.4-p296 from https://rubyinstaller.org/downloads/
 - WebDriver: https://chromedriver.storage.googleapis.com/index.html?path=2.37/
 
-To run a test, cd into the test folder and type 'ruby about_page_test.rb'
+## MailChimp exercise
+
+To run a test, go to the terminal, cd into the test folder and type 'ruby about_page_test.rb'
