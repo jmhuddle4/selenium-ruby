@@ -7,4 +7,10 @@
 
 ## MailChimp exercise
 
-To run a test, go to the terminal, cd into the test folder and type 'ruby about_page_test.rb'
+### To run a test
+- go to the terminal & run 'bundle install' to get all the gems
+- cd into the test folder 
+- run 'ruby about_page_test.rb'
+
+### Contact
+jmhuddle4@gmail.com
