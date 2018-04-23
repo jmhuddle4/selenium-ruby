@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'selenium-webdriver'
+gem 'cucumber'
 gem 'require_all'
-gem 'text/unit'
+gem 'selenium-webdriver'
+gem 'test-unit'
