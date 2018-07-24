@@ -41,7 +41,7 @@ class AboutPageTests
     num_team_members = @about_page.fetch_num_team_members
   
     # create/overwrite csv file with all team member names, titles & descriptions
-    CSV.open('team_memembers.csv', 'wb') do |csv|
+    CSV.open('team_members.csv', 'wb') do |csv|
       csv << ['Name', 'Title', 'Description']
   
       for counter in 0..num_team_members - 1
