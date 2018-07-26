@@ -15,5 +15,12 @@
 - cd into the test folder 
 - run 'ruby about_page_test.rb'
 
+### To run a cucumber test
+- go to the terminal & run 'bundle install' to get all the gems
+- make sure you have the chromedriver installed in the directory specified in base_page.rb
+`C:\Selenium\chromedriver\chromedriver.exe` or `<User>\Documents\Selenium\chromedriver` if you are on a mac
+- cd into the cucumber folder
+- run command 'cucumber'
+
 ### Contact
 jmhuddle4@gmail.com
