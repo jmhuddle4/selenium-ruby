@@ -37,8 +37,8 @@ class BasePage
 
   # edit file_path to point to your chrome driver
   def start_driver
-    file_path = 'C://Selenium/chromedriver_237'
-    folder = 'chromedriver_237'
+    file_path = 'C://Selenium/chromedriver'
+    folder = 'chromedriver'
     web_driver = 'chromedriver.exe'
     file = File.absolute_path('', File.dirname(file_path)), folder, web_driver
     chrome_driver_path = File.join(file)
