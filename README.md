@@ -7,10 +7,15 @@
 
 ## MailChimp exercise
 
-### To run a test
+### To run a regular test
 - go to the terminal & run 'bundle install' to get all the gems
-- cd into the test folder 
-- run 'ruby about_page_test.rb'
+- cd into the vanilla/test folder 
+- run command 'ruby about_page_test.rb'
+
+### To run a cucumber test
+- go to the terminal & run 'bundle install' to get all the gems
+- cd into the cucumber folder
+- run command 'cucumber'
 
 ### Contact
 jmhuddle4@gmail.com
