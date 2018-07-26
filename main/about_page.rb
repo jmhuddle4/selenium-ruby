@@ -17,7 +17,7 @@ class AboutPage
   end
 
   def fetch_member_description
-    @base_page.fetch_text('#bio_view .span3of5')
+    @base_page.fetch_text('#bio_view p')
   end
 
   def fetch_member_name
