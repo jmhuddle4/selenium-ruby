@@ -1,5 +1,8 @@
 source 'http://rubygems.org'
 
-gem 'selenium-webdriver'
+gem 'cucumber'
+gem 'capybara'
 gem 'require_all'
-gem 'text/unit'
+gem 'selenium-webdriver'
+gem 'test-unit'
+gem 'rspec-expectations'
